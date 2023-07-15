@@ -4,10 +4,9 @@ const app = new koa();
 const Redis = require("ioredis");
 
 const redis = new Redis({
-  port: 6379,
-  host: "127.0.0.1",
+  port: 6379, // redis 服务器的默认端口
+  host: "127.0.0.1", // redis 服务器的 IP 地址
 });
-
 
 app.use(async (ctx) => {
   // 例如经过很久的数据库数据查询

@@ -12,7 +12,7 @@
 
 
 
-<img src="NoSQL.assets/image-20210529092655969.png" alt="image-20210529092655969" style="zoom:50%;" />
+<img src="NoSQL_assets/image-20210529092655969.png" alt="image-20210529092655969" style="zoom:50%;" />
 
 
 
@@ -70,7 +70,7 @@
 
 
 
-<img src="NoSQL.assets/image-20210529093141572.png" alt="image-20210529093141572" style="zoom:50%;" />
+<img src="NoSQL_assets/image-20210529093141572.png" alt="image-20210529093141572" style="zoom:50%;" />
 
 
 
@@ -182,7 +182,7 @@ MongoDB 是由C++语言编写的，是一个基于分布式文件存储的开源
 
 MongoDB 将数据存储为一个文档，数据结构由键值(key=>value)对组成。MongoDB 文档类似于 JSON 对象。字段值可以包含其他文档，数组及文档数组。
 
-<img src="NoSQL.assets/crud-annotated-document.png" alt="img" style="zoom:80%;" />
+<img src="NoSQL_assets/crud-annotated-document.png" alt="img" style="zoom:80%;" />
 
 
 
@@ -200,7 +200,7 @@ MongoDB 将数据存储为一个文档，数据结构由键值(key=>value)对组
 
 Redis 的安装文件下载地址：https://github.com/tporadowski/redis/releases
 
-<img src="NoSQL.assets/image-20210529100935629.png" alt="image-20210529100935629" style="zoom:50%;" />
+<img src="NoSQL_assets/image-20210529100935629.png" alt="image-20210529100935629" style="zoom:50%;" />
 
 
 
@@ -326,7 +326,7 @@ mongod --dbpath=C:\data\db
 
 MongoDB 服务器启动后，访问 http://localhost:27017，如果出现这样的结果则表示已经成功：
 
-<img src="NoSQL.assets/image-20210606163204512.png" alt="image-20210606163204512" style="zoom:50%;" />
+<img src="NoSQL_assets/image-20210606163204512.png" alt="image-20210606163204512" style="zoom:50%;" />
 
 ---
 
